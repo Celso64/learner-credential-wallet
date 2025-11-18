@@ -174,6 +174,10 @@ export const KnownDidRegistries = [
     name: "DCC Registry",
     url: "https://digitalcredentials.github.io/dcc-registry/registry.json",
   },
+  {
+    name: "UNRN",
+    url: "https://digitalcredentials.github.io/dcc-registry/registry.json",
+  },
 ];
 
 export const CANCEL_PICKER_MESSAGES = [
